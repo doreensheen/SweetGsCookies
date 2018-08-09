@@ -1,0 +1,38 @@
+#navbarstyle {
+    height: 200%;
+    padding-left: 50px;
+    padding-right: 50px;
+    position: relative;
+}
+.navfont {
+    font-family: 'La Belle Aurore', cursive; 
+    font-size: 24pt; 
+    padding-top: 50px; 
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#homebanner {
+    width: 100%; 
+    max-height: 1500px;; 
+    position: relative;
+}
+.pagecontainer {
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+}
+footer {
+    bottom: 0;
+    position: relative;
+    z-index: -1;
+    width: 100%;
+}
+h6 {
+    font-size: 14pt;
+    line-height: 150%;
+    font-family: 'Martel', serif;
+}
+h1 {
+    font-family: 'La Belle Aurore', cursive;
+}
